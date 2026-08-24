@@ -57,15 +57,11 @@ body {
 }
 
 .nav-logo {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     font-weight: 700;
     color: white;
     text-decoration: none;
-    letter-spacing: 2px;
-}
-
-.logo-accent {
-    color: var(--accent-color);
+    letter-spacing: 1px;
 }
 
 .nav-menu {
